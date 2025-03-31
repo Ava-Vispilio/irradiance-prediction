@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow
+jupyterlab
+seaborn
+openpyxl
+--extra-index-url https://pypi.ngc.nvidia.com
+nvidia-cuda-runtime-cu12
